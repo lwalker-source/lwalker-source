@@ -5,7 +5,7 @@
   
     - 🏫 Studying B.A. Economics @ Sac State, c/o 2026
     
-    - 💼 Appointment setter, DSA Hornets Volunteer (2025-current)
+    - 💼 Data Analyst, DSA Hornets Volunteer (2025-current)
     
     - 🧃 I love seeing and analyzing trends 
     
@@ -20,6 +20,7 @@
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
