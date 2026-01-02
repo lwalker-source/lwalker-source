@@ -13,13 +13,16 @@
     
     - 🐍 Intermediate Python
 
-    - 🎧 Hobbyist Piano and Guitar
+    - 🎨 4 years Graphic Design experience
+
+    - 🎧 Hobbyist Piano, Guitar and Music Production
     
     - ➕ [linkedin] https://www.linkedin.com/in/law341/
 
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
