@@ -1,5 +1,5 @@
 <div align="center">
-## 👋 **Hello, I'm Lawrence and welcome to my Github Profile!**
+👋 **Hello, I'm Lawrence and welcome to my Github Profile!**
   
 ### <span style="color: #FF2E00;">📊 Economics Student | Data-Driven Developer | Analyst </span>
   
@@ -80,6 +80,7 @@ Economics student and developer passionate about turning data into actionable in
 ### <span style="color: #FF2E00;">❗️ Thank you for visiting!</span>
 
 *Explore my projects and let's connect.*
+
 
 
 
