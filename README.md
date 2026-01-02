@@ -18,7 +18,7 @@ Economics student and developer passionate about turning data into actionable in
 ## <span style="color: #FF2E00;">� Currently</span>
   
 - 🏫 Studying B.A. Economics @ Sac State, c/o 2026
-- � Data Analyst, DSA Hornets Volunteer (2025–present)
+- 📈 Data Analyst, DSA Hornets Volunteer (2025–present)
 - 🔗 Building crypto/Web3 projects & learning DeFi fundamentals
 - 📈 Analyzing macroeconomic trends & market microstructure
 
@@ -80,6 +80,7 @@ Economics student and developer passionate about turning data into actionable in
 ### <span style="color: #FF2E00;">❗️ Thank you for visiting!</span>
 
 *Explore my projects and let's connect.*
+
 
 
 
