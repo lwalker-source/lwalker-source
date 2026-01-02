@@ -1,6 +1,11 @@
-
-👤 Hello, Im _Lawrence_ and welcome to my Github Profile!
- 
+<div align="center">
+## 👤 Hello, Im _Lawrence_ and welcome to my Github Profile!
+  
+### <span style="color: #FF2E00;">📈 Economics Student | Programmer | Musician | Graphic Designer </span>
+  
+> *<span style="color: ##FF2E00;">"Coding with ambition, designing with passion, and leading with grace—making every project uniquely elegant."</span>*
+  
+</div>
   currently:
   
     - 🏫 Studying B.A. Economics @ Sac State, c/o 2026
@@ -22,6 +27,7 @@
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
