@@ -15,5 +15,9 @@
     
     - ➕ [linkedin] https://www.linkedin.com/in/law341/
 
+    - 📩 lwalkersource@gmail.com
+
+    - ❗️ Thank you for visiting! 
+
 
 
