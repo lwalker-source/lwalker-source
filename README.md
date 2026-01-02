@@ -12,12 +12,15 @@
     - 📈 Advanced Excel
     
     - 🐍 Intermediate Python
+
+    - 🎧 Hobbyist Piano and Guitar
     
     - ➕ [linkedin] https://www.linkedin.com/in/law341/
 
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
