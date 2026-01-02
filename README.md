@@ -11,7 +11,7 @@
     
     - 📈 Advanced Excel
     
-    - 🐍 Intermediate Python
+    - 🐍 2 Years Intermediate Python
 
     - 🎨 4 years Graphic Design experience
 
@@ -22,6 +22,7 @@
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
