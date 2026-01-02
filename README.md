@@ -1,5 +1,5 @@
 <div align="center">
-## 👤 Hello, I'm _Lawrence_ and welcome to my Github Profile!
+## 👋 **Hello, I'm Lawrence and welcome to my Github Profile!**
   
 ### <span style="color: #FF2E00;">📊 Economics Student | Data-Driven Developer | Analyst </span>
   
