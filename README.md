@@ -7,7 +7,7 @@
     
     - 💼 Data Analyst, DSA Hornets Volunteer (2025-current)
     
-    - 🧃 I love seeing and analyzing trends 
+    - 🧃 I love macroeconomics and analyzing trends 
     
     - 📈 Advanced Excel
     
@@ -20,6 +20,7 @@
     - 📩 lwalkersource@gmail.com
 
     - ❗️ Thank you for visiting! 
+
 
 
 
