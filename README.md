@@ -66,7 +66,7 @@ Economics student and developer passionate about turning data into actionable in
 
 ## <span style="color: #FF2E00;">🚀 Featured Projects</span>
 
-![SQL]([layoffs-dataset-project](https://github.com/lwalker-source/layoffs-dataset-project))
+![SQL 2023-2026 Job Layoff Analysis]([layoffs-dataset-project](https://github.com/lwalker-source/layoffs-dataset-project))
 
 ---
 
