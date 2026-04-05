@@ -66,7 +66,7 @@ Economics student and developer passionate about turning data into actionable in
 
 ## <span style="color: #FF2E00;">🚀 Featured Projects</span>
 
-> Coming soon! Check back for project highlights, demos, and code samples.
+![SQL]([layoffs-dataset-project](https://github.com/lwalker-source/layoffs-dataset-project))
 
 ---
 
