@@ -19,7 +19,7 @@ Economics student and developer passionate about turning data into actionable in
   
 - 🏫 Studying B.A. Economics @ Sac State, c/o 2026
 - 📈 Data Analyst, DSA Hornets Volunteer (2025–present)
-- 🔗 Building crypto/Web3 projects & learning DeFi fundamentals
+- 🔗 Building data analyst fundamentals
 - 📈 Analyzing macroeconomic trends & market microstructure
 
 ---
@@ -48,15 +48,6 @@ Economics student and developer passionate about turning data into actionable in
 - 🌐 HTML5 & CSS3
 - 🐙 Git & GitHub (version control)
 - 📱 Web fundamentals & responsive design
-
-**Crypto & Web3 (In Progress):**
-
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-
-- � Learning blockchain fundamentals & Ethereum
-- 📊 DeFi protocol analysis & yield optimization
-- � On-chain data & trading signal development
 
 **Creative:**
 - 🎨 4+ Years Graphic Design
