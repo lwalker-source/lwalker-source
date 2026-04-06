@@ -17,8 +17,8 @@ Economics student and developer passionate about turning data into actionable in
 
 ## <span style="color: #FF2E00;">💻 Currently</span>
   
-- 🏫 Studying B.A. Economics @ Sac State, c/o 2026
-- 📈 Data Analyst, DSA Hornets Volunteer (2025–present)
+- 🏫 Studying B.A. Economics 
+- 📈 Data Analyst
 - 🔗 Building data analyst fundamentals
 - 📈 Analyzing macroeconomic trends & market microstructure
 
