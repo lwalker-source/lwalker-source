@@ -1,7 +1,7 @@
 <div align="center">
 Hello! I'm Lawrence 👋
   
-### <span style="color: #FF2E00;">📊 Economics Student | Data-Driven Developer | Analyst </span>
+### <span style="color: #FF2E00;">📊 Economics Grad | Data-Driven Developer | Analyst </span>
   
 *<span style="color: #FF2E00;">"Building insights from data, solving problems with code."</span>*
   
@@ -11,13 +11,13 @@ Hello! I'm Lawrence 👋
 
 ## <span style="color: #FF2E00;">📍 About Me</span>
 
-Economics student and developer passionate about turning data into actionable insights. I combine **quantitative analysis** with **software development** to build tools that matter. Experienced in data analysis, currently expanding into blockchain and emerging technologies.
+Economics Graduate and developer passionate about turning data into actionable insights. I combine **quantitative analysis** with **software development** to build tools that matter. Experienced in data analysis, currently expanding into blockchain and emerging technologies.
 
 ---
 
 ## <span style="color: #FF2E00;">💻 Currently</span>
   
-- 🏫 Studying B.A. Economics 
+- 🏫 Graduated B.A. Economics 
 - 📈 Data Analyst
 - 🔗 Building data analyst fundamentals
 - 📈 Analyzing macroeconomic trends & market microstructure
