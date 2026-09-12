@@ -40,5 +40,3 @@ Outside tech: music production, guitar, and piano.
 
 
 
-
-
