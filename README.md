@@ -1,79 +1,34 @@
-<div align="center">
-Hello! I'm Lawrence 👋
-  
-### <span style="color: #FF2E00;">📊 Economics Grad | Data-Driven Developer | Analyst </span>
-  
-*<span style="color: #FF2E00;">"Building insights from data, solving problems with code."</span>*
-  
-</div>
+Hi, I'm Lawrence 👋
 
----
+IT support professional moving into cloud, currently studying for the Azure certifications and building hands-on labs to back it up.
 
-## <span style="color: #FF2E00;">📍 About Me</span>
+About me
 
-Economics Graduate and developer passionate about turning data into actionable insights. I combine **quantitative analysis** with **software development** to build tools that matter. Experienced in data analysis, currently expanding into blockchain and emerging technologies.
+Economics graduate now working toward a career in IT support and cloud. My background is in healthcare tech, where I ran a discharge-coordination platform end to end: troubleshooting user issues, triaging the hard ones to engineering, and keeping non-technical people unblocked. I'm building Windows Server and Active Directory labs on my own time to get real reps on the fundamentals, and documenting each one here.
 
----
+Currently
+📚 Studying for AZ-900 (Azure Fundamentals), with AZ-104 next
+🖥️ Building Active Directory and Windows Server home labs
+💼 Open to help desk, desktop support, and junior cloud/MSP roles
+Skills
 
-## <span style="color: #FF2E00;">💻 Currently</span>
-  
-- 🏫 Graduated B.A. Economics 
-- 📈 Data Analyst
-- 🔗 Building data analyst fundamentals
-- 📈 Analyzing macroeconomic trends & market microstructure
+Cloud and identity: Microsoft Azure (AZ-900 in progress), Active Directory, Microsoft 365
 
----
+Systems and support: Windows Server 2022/2025, Windows 10/11, DNS, DHCP, Group Policy, hardware and software troubleshooting
 
-## <span style="color: #FF2E00;">🛠️ Skills & Experience</span>
+Networking: TCP/IP, DNS, DHCP fundamentals
 
-**Data & Analysis:**
+Scripting and data: PowerShell, Python (pandas, NumPy), SQL, Excel (advanced)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+Tools: VirtualBox, Git and GitHub
 
-- 🐍 2+ Years Python (pandas, NumPy, visualization)
-- 📊 Advanced Excel (VLOOKUP, pivot tables, formulas)
-- 🗄️ SQL (queries, basic database design)
-- 📈 Data visualization & exploratory analysis
-- 💡 Economic analysis & trend detection
+Featured projects
+Active Directory home lab — a Windows Server 2022 domain built in VirtualBox: domain controller, DNS, DHCP, OUs, groups, users, and Group Policy, with a domain-joined Windows client. Full write-up and screenshots in the repo. View project
+Connect
+💼 LinkedIn: law341
+📧 Email: lwalkersource@gmail.com
 
-**Web & Development:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-- 🌐 HTML5 & CSS3
-- 🐙 Git & GitHub (version control)
-- 📱 Web fundamentals & responsive design
-
-**Creative:**
-- 🎨 4+ Years Graphic Design
-- 🎧 Hobbyist Piano, Guitar & Music Production
-
----
-
-## <span style="color: #FF2E00;">🚀 Featured Projects</span>
-
-![SQL 2023-2026 Job Layoff Analysis]([layoffs-dataset-project](https://github.com/lwalker-source/layoffs-dataset-project))
-
----
-
-## <span style="color: #FF2E00;">📫 Connect With Me</span>
-
-- 💼 **LinkedIn:** [law341](https://www.linkedin.com/in/law341/)
-- 📧 **Email:** [lwalkersource@gmail.com](mailto:lwalkersource@gmail.com)
-
----
-
-### <span style="color: #FF2E00;">❗️ Thank you for visiting!</span>
-
-*Explore my projects and let's connect.*
-
-
-
+Outside tech: music production, guitar, and piano.
 
 
 
